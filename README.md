@@ -5,15 +5,15 @@ This project focuses on **layout accuracy, responsiveness and modern frontend de
 
 ---
 
-## 🚀 Live Demo
-
-> __
-
----
-
 ## Preview 📽
 
 https://github.com/user-attachments/assets/6c8b64d7-0ce3-4f06-b65c-dc3b5ef0e8c1
+
+---
+
+## 🚀 Live Demo
+
+https://x-ui-clone-tanmay.netlify.app/
 
 ---
 
